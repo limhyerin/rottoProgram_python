@@ -24,7 +24,7 @@
 9) a 변수에 함수 random_num()을 호출한 값을 넣음
 10) print로 로또 번호 a를 출력
 
-# 소스코드
+# Sorce Code
 [ 기본형식 ]
 
 ![image](https://user-images.githubusercontent.com/70150896/199138676-38609efe-1a8e-491e-81a2-7c6ba0b3e6e1.png)
