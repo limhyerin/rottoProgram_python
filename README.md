@@ -28,5 +28,5 @@
 [ 기본형식 ]
 ![image](https://user-images.githubusercontent.com/70150896/199138676-38609efe-1a8e-491e-81a2-7c6ba0b3e6e1.png)
 
-[ 함수를 이용해 추첨 ]
+[ 함수를 이용한 형식 ]
 ![image](https://user-images.githubusercontent.com/70150896/199138774-b5646ce2-f139-4e58-bd2c-de779a02db51.png)
